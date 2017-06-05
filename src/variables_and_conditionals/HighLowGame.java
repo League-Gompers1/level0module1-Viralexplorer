@@ -1,3 +1,4 @@
+6
 package variables_and_conditionals;
 
 import java.util.Random;
